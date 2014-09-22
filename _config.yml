@@ -12,3 +12,20 @@ github_username:  jekyll
 
 # Build settings
 markdown: kramdown
+
+BASE_PATH : /KuroHiyoko
+
+prose:
+  rooturl: '_posts'
+  siteurl: 'http://kanakana0330.github.io/KuroHiyoko/'
+  media: 'media'
+  metadata:
+    _posts:
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "blog"
+      - name: "title"
+        field:
+          element: "text"
+          value: ""
