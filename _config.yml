@@ -16,7 +16,7 @@ markdown: kramdown
 BASE_PATH : /KuroHiyoko
 
 prose:
-  rooturl: '_posts'
+  rooturl: '_site'
   siteurl: 'http://kanakana0330.github.io/KuroHiyoko/'
   media: 'media'
   metadata:
